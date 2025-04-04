@@ -49,6 +49,37 @@ Power BI Report :
 2. Validated and analyzed the data.
 3. Created an interactive Power BI dashboard and published it to Power BI Service and GitHub.
 
-📊 Insights -
+📊 Key Insights from Tokyo Olympic Data Analysis
+
+1. Total Participation Overview
+a. Total Athletes: Approximately 11,100 athletes participated in the Tokyo Olympics.
+b. Total Disciplines: The event featured 46 distinct disciplines.
+c. Participating Countries: Athletes from 206 countries took part in the games.
+
+2. Gender Participation
+Male Participation: 52%
+Female Participation: 48%
+There was a 4% higher participation rate among male athletes compared to female athletes, highlighting a relatively balanced gender representation.
+
+3. Top Countries by Total Medals Won 🏅
+United States - 113
+China- 88
+ROC- 71
+Great Britain- 65
+Japan- 58
+
+5. Top Countries by Gold Medals 🥇
+United States - 39
+China- 38
+Japan- 27
+Great Britain- 22
+Russian Olympic Committee (ROC)- 20
+
+7. Top Countries by Event Participation
+Japan: Participated in 48 events – the highest among all countries.
+USA: Participated in 47 events
+Italy: 37 events
+Germany: 36 events
+ROC: 34 events
 
 
