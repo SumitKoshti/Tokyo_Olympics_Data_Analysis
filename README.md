@@ -22,7 +22,7 @@ Power BI Report :
 
 .
 
-[See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiODQ3NmZmNWUtYWI5Ni00MzQ2LWJmNmMtZDU3Y2IwNTZlZDRjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[See Full Dashboard Here!](https://app.powerbi.com/reportEmbed?reportId=fd0b4d10-367c-4257-9fb9-fabc9d5e948a&autoAuth=true&ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0)
 
 .
 
