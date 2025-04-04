@@ -13,9 +13,9 @@ To perform end-to-end data analysis on Tokyo Olympic data using cloud platforms 
 4. Power BI (for dashboard creation and visualization)
 
 Data Transformation Script :
-![Data Transformation Script](Data Transformation Script.jpg)
+![Data Transformation Script](Data_Transformation_Script.jpg)
 
-POwer BI Report :
+Power BI Report :
  ![See Dashboard](Dashboard.jpg)
 
 [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiMjQ1MjEwMWUtYTRkZi00NWYxLTg1OTAtMzk0NjMyOGQ5MzE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
