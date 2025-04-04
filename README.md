@@ -18,7 +18,7 @@ Data Transformation Script :
 .
 
 Power BI Report :
-   ![See Dashboard](Dashboard.jpg)
+   ![See Dashboard](Dashboard1.jpg)
 
 .
 
